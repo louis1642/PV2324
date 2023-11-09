@@ -1,0 +1,4 @@
+Inserire il file "Drawing_Titleblock_PROTOTIPAZIONE-VIRTUALE-GDG.CATScript"
+
+nella cartella:
+C:\Program Files\Dassault Systemes\B28\win_b64\VBScript\FrameTitleBlock
