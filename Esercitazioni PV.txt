@@ -1,0 +1,30 @@
+Esercitazioni PV
+
+ES 0103
+inutili le linee nascoste
+Vista spezzata
+Quotare profondità lamatura e raccordì
+
+0104
+bene
+
+0201
+
+
+0202
+Evitare intersezioni con altre linee tra semivista e semisezione (?)
+Meglio realizzare una vista maschera 
+Quotare tutti i fori phi 20 (non penso che sia vero )
+
+ES0301
+Sezione con piani concorrenti 
+Non ci sono le φ
+(si possono non mettere le linee di centro per tutti i fori e disegnare solo una circonferenza passante per i centri)
+Le linee di centro dovrebbero essere orientate come gli assi (cambia il comando e diventa )
+
+ES
+spline realizzata a mano e campitura inserita manualmente 
+
+[No skeleton nella bill of material]
+
+
