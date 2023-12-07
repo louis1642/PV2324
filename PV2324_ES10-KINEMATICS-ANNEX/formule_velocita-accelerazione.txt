@@ -1,0 +1,7 @@
+velocità:
+Lunghezza=10mm/1s*Meccanismo.1\KINTime
+
+
+accelerazione:
+Lunghezza=10mm/1s* Meccanismo.1\KINTime+0.5*2mm/1s*1s*Meccanismo.1\KINTime*Meccanismo.1\KINTime 
+
